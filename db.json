@@ -1,3 +1,20 @@
-{
-    "array":[{"id": 2}, {"title": "Hello"}]
-}
+[
+    {
+        "Monday": 1
+    },
+    {
+        "Tuesday": 2
+    },
+    {
+        "Wednesday": 3
+    },
+    {
+        "Thirsday": 4
+    },
+    {
+        "Friday": 5
+    },
+    {
+        "Saturday": 6
+    }
+]
